@@ -155,7 +155,7 @@ export default function Home() {
                   {
                     category: "Interfaz gráfica",
                     items: [
-                      "Usar ethers.js o web3.js para conectar frontend con contratos",
+                      "Usar ethers.js o viem.js para conectar frontend con contratos",
                       "Implementar Web3Modal o RainbowKit para gestión de wallets",
                       "Flujo: formulario web → cálculo de hash → firma de transacción → confirmación",
                     ],
