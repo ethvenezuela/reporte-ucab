@@ -393,7 +393,7 @@ export default function Home() {
                 architecture={`
 +------------------+    +------------------+    +------------------+
 | Dispositivos IoT |    | Chainlink        |    | Avalanche        |
-| - Sensores       | -> | - External Adapters | -> | - Contratos EaaS |
+| - Sensores       | -> | - Extern Adapter | -> | - Contratos EaaS |
 | - Actuadores     |    | - Functions      |    | - Tokens         |
 | - Microcontrola. |    | - Automation     |    | - Pagos          |
 +------------------+    +------------------+    +------------------+
